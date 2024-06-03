@@ -1,3 +1,4 @@
+![image](https://github.com/bernard-dali/cloudflare-bypass-python-demo/assets/151824231/c6f6dcd7-99a6-4eaf-b50f-ac6af138ca97)
 
 # Example of solving Cloudflare Challenge page using pyppeteer (python)
 
